@@ -4,7 +4,7 @@
 
 ---
 
-![Status](https://img.shields.io/badge/status-alpha-orange) ![Tech](https://img.shields.io/badge/stack-Node.js%20%7C%20React%20%7C%20MongoDB-blue) ![License](https://img.shields.io/badge/license-MIT-green)
+![Tech](https://img.shields.io/badge/stack-Node.js%20%7C%20React%20%7C%20MongoDB-blue) 
 
 ---
 
