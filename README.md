@@ -23,9 +23,10 @@ This project builds a proof-of-work system where:
 
 Watch the full project demo (includes complete details and workflow):
 
-[![Watch Demo][(https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID)](https://youtu.be/zq9cPz_B5Do)
+[![Watch Demo](https://img.youtube.com/vi/zq9cPz_B5Do/0.jpg)](https://youtu.be/zq9cPz_B5Do)
 
-**Direct link:** [https://youtu.be/VIDEO_ID](https://youtu.be/zq9cPz_B5Do)
+**Direct link:** https://youtu.be/zq9cPz_B5Do
+
 
 
 ## ⚡ What Makes Our System Different
